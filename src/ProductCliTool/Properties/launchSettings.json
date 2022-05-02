@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProductCliTool": {
+      "commandName": "Project",
+      "commandLineArgs": "import softwareadvice feed-products/softwareadvice.json"
+    }
+  }
+}
