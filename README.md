@@ -25,6 +25,6 @@ Commands:
 
 ### Samples Screen 
 
-![Help Command screen](https://github.com/nemi-chand/ProductCliTool/blob/main/sample-images\HelpScreen.JPG?raw=true)
+![Help Command screen](https://github.com/nemi-chand/ProductCliTool/blob/main/sample-images/HelpScreen.JPG?raw=true)
 
-![Capterra Command screen](https://github.com/nemi-chand/ProductCliTool/blob/main/sample-images\CapterraOutput.JPG?raw=true)
+![Capterra Command screen](https://github.com/nemi-chand/ProductCliTool/blob/main/sample-images/CapterraOutput.JPG?raw=true)
